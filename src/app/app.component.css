@@ -1,0 +1,6 @@
+.content {
+  min-height: calc(100vh - 150px);
+  /* Altura del footer + otros márgenes */
+  padding-bottom: 70px;
+  /* Altura del footer */
+}
